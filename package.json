@@ -1,0 +1,21 @@
+{
+    "name": "Neo-Dark",
+    "displayName": "Neo Dark",
+    "description": "color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neo-Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neo-Dark-color-theme.json"
+            }
+        ]
+    }
+}
